@@ -7,3 +7,5 @@ Latest exe Build (https://github.com/blahpr/MS-Visual-Studio-Path-Editor/release
 * Will Restart As Admin to Make Changes to Registry. Use Capitol Letters C D E ect..
 * Not Needed C: D: E: ect..
 * Allows you to Change the Drive Letter for the Shared Installation Path or Visual Studio 2022: Shared components, tools, and SDK's in the Windows Registry for Microsoft Visual Studio 2022
+
+* https://github.com/blahpr/MS-Visual-Studio-Path-Editor
