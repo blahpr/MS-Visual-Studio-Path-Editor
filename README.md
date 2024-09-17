@@ -1,4 +1,5 @@
 # MS Visual Studio 2022 Path Editor - For Windows
+# Anyone Can Make Changes As They See Fit. Like Change Stuff, Add Stuff, Dislike Stuff You Can Please Feel Free.
 Latest exe Build (https://github.com/blahpr/MS-Visual-Studio-Path-Editor/releases/latest)
 * Using UPX The Ultimate Packer for eXecutables (https://github.com/upx/upx)
 * Allows you to Change the Drive Letter in the Shared Installation Path for Visual Studio 2022: Shared components, tools, and SDK's in the Windows Registry for Microsoft Visual Studio 2022
